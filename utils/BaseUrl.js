@@ -1,0 +1,1 @@
+export const BaseURL = 'https://rtc-civil-bked.irepute.co.in/';
